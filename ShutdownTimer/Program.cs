@@ -32,8 +32,8 @@ namespace ShutdownScheduler
         private void InitializeComponents()
         {
             Text = "ShutdownTimer";
-            Width = 400;
-            Height = 200;
+            Width = 300;
+            Height = 170;
             FormBorderStyle = FormBorderStyle.FixedSingle;
             MaximizeBox = false;
             StartPosition = FormStartPosition.CenterScreen;
